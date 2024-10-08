@@ -11,7 +11,3 @@ Currently, I’m diving into cloud computing to enhance my skills and broaden my
 - Kubernetes: Enhancing my skills in orchestrating containerized applications for better management and deployment.
 - CI/CD Practices: Implementing continuous integration and continuous delivery to streamline the development process.
 
----
-
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Rihab-Sakhri
