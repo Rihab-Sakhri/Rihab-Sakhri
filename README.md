@@ -20,6 +20,6 @@ I love building efficient and scalable applications
 
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rihab-Sakhri&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rihab-Sakhri&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rihab-Sakhri)](https://github.com/Rihab-Sakhri/github-readme-stats)
+<img alt="Top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihab-Sakhri&layout=donut"/>
