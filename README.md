@@ -1,5 +1,9 @@
 
-### 👋 Hi there, I'm Rihab!
+<h1 align="center">👋 Hi there, I'm Rihab!</h1>
+
+![Cover git](https://github.com/user-attachments/assets/76ee6541-6764-407b-b95d-70314fb812bf)
+                                                                                                                                          
+
 > Welcome to my GitHub profile! I’m a passionate backend software developer
 > with a focus on Golang and Python.
 I love building efficient and scalable applications
@@ -23,3 +27,14 @@ I love building efficient and scalable applications
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rihab-Sakhri&rank_icon=github"/>
 
 <img alt="Top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihab-Sakhri&layout=donut"/>
+
+
+
+
+
+
+
+
+
+
+
