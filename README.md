@@ -1,8 +1,8 @@
 
 <h1 align="center">👋 Hi there, I'm Rihab!</h1>
 
-![Cover gittt](https://github.com/user-attachments/assets/76ee6541-6764-407b-b95d-70314fb812bf)
-                                                                                                                                          
+![Cover ![Cover gittt](https://github.com/user-attachments/assets/f47419cc-5bbf-4f57-8856-616361ed0e8a)
+                                                                                                                                       
 
 > Welcome to my GitHub profile! I’m a passionate backend software developer
 > with a focus on Golang and Python.
