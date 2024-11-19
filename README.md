@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi there, I'm Rihab!</h1>
 
-![Cover ![Cover gittt](https://github.com/user-attachments/assets/f47419cc-5bbf-4f57-8856-616361ed0e8a)
+[Cover gittt](https://github.com/user-attachments/assets/f47419cc-5bbf-4f57-8856-616361ed0e8a)
                                                                                                                                        
 
 > Welcome to my GitHub profile! I’m a passionate backend software developer
